@@ -1,0 +1,16 @@
+{
+  "title": "The Adventures of Tom Sawyer",
+  "shortTitle": "Tom Sawyer",
+  "author": "Mark Twain",
+  "year": 1876,
+  "source": "https://standardebooks.org/ebooks/the-adventures-of-tom-sawyer",
+  "words": 70812,
+  "pulpDate": null,
+  "repo": "https://github.com/JohnQPulp/TomSawyer",
+  "links": {
+    "Goodreads": "https://www.goodreads.com/book/show/24583.The_Adventures_of_Tom_Sawyer",
+    "Wikipedia": "https://en.wikipedia.org/wiki/The_Adventures_of_Tom_Sawyer"
+  },
+  "blurb": "foo",
+  "blurb2": "bar"
+}
