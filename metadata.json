@@ -7,10 +7,9 @@
   "words": 70812,
   "pulpDate": null,
   "repo": "https://github.com/JohnQPulp/TomSawyer",
-  "links": {
-    "Goodreads": "https://www.goodreads.com/book/show/24583.The_Adventures_of_Tom_Sawyer",
-    "Wikipedia": "https://en.wikipedia.org/wiki/The_Adventures_of_Tom_Sawyer"
-  },
+  "wikipedia": "https://en.wikipedia.org/wiki/The_Adventures_of_Tom_Sawyer",
   "blurb": "foo",
-  "blurb2": "bar"
+  "blurb2": "bar",
+  "useAvif": true,
+  "authorWidth": null
 }
